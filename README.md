@@ -10,7 +10,7 @@
       </ul>
     </li>
     <li>
-      <a href="#web-scrapping">Analizador se sentimientos Twitter</a>
+      <a href="#web-scrapping">Analizador de sentimientos Twitter</a>
       <ul>
         <li><a href="#dependency-installation">Instalacion de dependencias</a></li>
         <li><a href="#web-request">Configuracion stopwords y vader lexicon</a></li>
