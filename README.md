@@ -45,7 +45,7 @@ Nos dirigimos a la documentacion oficial de [Jupyter](https://jupyter-docker-sta
  Este comando nos permitira clonar el repo con la imagen y asi, ejecutar la instancia de Jupyter lab.
  Luego nos dirigimos a docker desktop y ejecutamos la instancia
 
-## Analizador se sentimientos Twitter
+## Analizador de sentimientos Twitter
 ### Instalacion de dependencias
 Para instalar las dependencias es muy simple, solo nos dirigimos a unas de las seccion para compilar codigo en Jupyterlab y se ejecuta la instruccion 
   ```sh
